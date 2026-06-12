@@ -47,20 +47,20 @@ function updateCounter() {
 // ============================================
 const letterMessages = {
     'saudades': {
-        title: '💕 Quando você estiver com saudades...',
-        message: 'Saudade é o sentimento de ter você perto, mesmo quando estamos longes. Cada momento longe de você é um momento que eu espero ansiosamente para reencontrar. Você está sempre no meu pensamento, no meu coração e em cada um dos meus sonhos. Te amo mais do que palavras podem expressar.'
+        title: 'Quando você estiver com saudades...',
+        message: 'Saudade é o sentimento de querer te ter por perto, mesmo quando estamos longes. Cada momento longe de você é um momento que eu espero ansiosamente pra te ver. Você está sempre no meu pensamento, no meu coração e no meu coração. Te amo mais do que palavras podem expressar.'
     },
     'dia-dificil': {
-        title: '💪 Quando você tiver um dia difícil...',
-        message: 'Lembre-se de que você é mais forte do que imagina. Cada desafio é uma oportunidade de crescimento, e eu estarei sempre aqui para te apoiar, te ouvir e te ajudar. Você é incrível, capaz e merecedora de todo o amor do mundo. Respira fundo, eu estou contigo.'
+        title: 'Quando você tiver um dia difícil...',
+        message: 'Nunca esqueça de que você é mais forte do que imagina. Em cada momento difícil e desafiador, eu tenho certeza que voce é 100% capaz de superar meu amor, e eu estarei sempre aqui para te apoiar, te ouvir e te ajudar. Você é incrível, capaz e merecedora de todo o amor do mundo. Respira fundo, eu estou contigo.'
     },
     'rir': {
-        title: '😄 Quando você quiser rir...',
+        title: 'Quando você quiser rir...',
         message: 'Lembra todas as vezes em que eu fiz alguma careta, idiotice ou agi de uma maneira muito esquisita tentando arrancar um sorriso seu ?   Rir é o melhor remédio pra momentos difíceis, e adoro ver seu sorriso perfeito iluminar o mundo inteiro!. Você é paz, é luz e tudo de melhor que esse pode existir nesse mundo.'
     },
     'amor': {
-        title: '❤️ Quando você quiser se sentir amada...',
-        message: 'Você é a pessoa mais especial que já conheci. Seu sorriso ilumina meus dias, sua voz acalma meu coração e seu abraço é meu lugar favorito no mundo. Eu te amo não apenas pelo que você é, mas pelo que eu sou quando estou com você. Você é meu tudo, hoje e sempre.'
+        title: 'Quando você quiser se sentir amada...',
+        message: 'Você é a pessoa mais especial que já conheci. Seu olhos tem o poder de melhorar o meu dia em 1 segundo, sua voz acalma meu coração e seu abraço é meu lugar favorito no mundo. Eu te amo não apenas pelo que você é, mas pelo que eu sou quando estou com você. Você é meu tudo, hoje e sempre.'
     }
 };
 
